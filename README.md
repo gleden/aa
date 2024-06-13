@@ -1,1 +1,1 @@
-#gleden portfoli.aa
+#gleden portfolio.aa
